@@ -46,8 +46,7 @@ decision support, multi-agent systems and human-in-the-loop software.
 - Finalist and Team Lead — USAII Global AI Hackathon 2026
 - Earned an 85% Core Judge score, including full marks for Impact and Responsible AI
 - Completed and submitted projects in multiple international AI hackathons
-- Dual-award BSc (Hons) Software Engineering graduate
-- De Montfort University degree classification: Second Class Honours, Upper Division
+- Dual-award BSc (Hons) Software Engineering graduate — Asia Pacific University and De Montfort University
 
 ## Technical Focus
 
